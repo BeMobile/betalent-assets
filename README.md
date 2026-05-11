@@ -8,6 +8,7 @@ Este repositório contém os ativos de marca (assets) da **BeTalent**, parceira 
 - **[betalent-logo/](betalent-logo/)**: Arquivos oficiais do logotipo da BeTalent.
     - **[png/](betalent-logo/png/)**: Versões em formato de imagem (PNG).
     - **[svg/](betalent-logo/svg/)**: Versões em formato vetorial (SVG).
+    - **[pdf/](betalent-logo/pdf/)**: Versões em formato PDF.
 
 ## Sobre a BeTalent
 
