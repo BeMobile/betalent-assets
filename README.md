@@ -4,8 +4,8 @@ Este repositório contém os ativos de marca (assets) da **BeTalent**, parceira 
 
 ## Estrutura do Repositório
 
-- **[betalent-email-signature/](betalent-email-signature/)**: Modelos e arquivos para assinaturas de e-mail.
-- **[betalent-logo/](betalent-logo/)**: Arquivos oficiais do logotipo da BeTalent.
+- **[betalent-email-signature/](betalent-email-signature/)**: Template HTML de assinatura de e-mail com placeholders (`{{FULL_NAME}}`, `{{ROLE}}`, `{{EMAIL}}`, `{{PHONE_DISPLAY}}`, `{{WHATSAPP_URL}}`, `{{LINKEDIN_URL}}`) e logo otimizada para a assinatura.
+- **[betalent-logo/](betalent-logo/)**: Arquivos oficiais do logotipo da BeTalent, com 6 variações (`noBG`, `solidBlackBG`, `solidWhiteBG`, `transparentBG`, em `blackFT` ou `whiteFT`) em três formatos:
     - **[png/](betalent-logo/png/)**: Versões em formato de imagem (PNG).
     - **[svg/](betalent-logo/svg/)**: Versões em formato vetorial (SVG).
     - **[pdf/](betalent-logo/pdf/)**: Versões em formato PDF.
